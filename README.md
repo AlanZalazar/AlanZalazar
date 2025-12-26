@@ -1,13 +1,24 @@
-Hi 👋, I'm Alan Zalazar
-A passionate Full Stack developer from Argentina
+## 👋 Hi, I'm Alan Zalazar
 
+Junior Fullstack Web Developer focused on building functional, clean and scalable web applications.
 
-🔭 I’m currently working on PF HENRY&CO Final Project
+🚀 I work mainly with:
+- JavaScript (ES6+)
+- React
+- HTML & CSS
+- Tailwind CSS
+- Firebase
+- Git & GitHub
 
-🌱 I’m currently learning React Native, Firebase, Next.js
+🛒 I've built a complete e-commerce web application with:
+- Product catalog
+- Shopping cart
+- Payment integration (MercadoPago)
+- API consumption
+- Live deployment
 
+🎯 Currently looking for my first professional opportunity in IT, where I can grow, learn and contribute from day one.
 
-Languages and Tools:
-angular aws babel bootstrap canvasjs css3 django docker express figma firebase gcp git html5 illustrator java javascript linux mongodb mysql nodejs photoshop php postgresql react redux typescript webpack xd
-
-
+📫 You can find me here:
+- GitHub: https://github.com/AlanZalazar
+- LinkedIn: https://www.linkedin.com/in/alanz04/
