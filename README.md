@@ -19,6 +19,13 @@ Junior Fullstack Web Developer focused on building functional, clean and scalabl
 
 🎯 Currently looking for my first professional opportunity in IT, where I can grow, learn and contribute from day one.
 
+🌐 Live demo:
+- E-commerce Web App: https://voidfull-store.vercel.app/
+- E-commerce Web App (cooperative): https://pf-gafas.web.app/
+- Photo galery: https://galeria-imagenes-sand.vercel.app/
+- Weather App: https://weather-app-blond-eight-18.vercel.app/
+- Stays App: https://windbnb-react-pink.vercel.app/
+
+
 📫 You can find me here:
-- GitHub: https://github.com/AlanZalazar
 - LinkedIn: https://www.linkedin.com/in/alanz04/
